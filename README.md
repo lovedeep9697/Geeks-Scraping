@@ -1,2 +1,2 @@
 # Geeks-Scraping
-Script to scrap Geeks for Geeks.
+Script to scrap and save articles given on Geeks for Geeks  as pdf.
